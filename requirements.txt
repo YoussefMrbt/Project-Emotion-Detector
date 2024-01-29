@@ -1,0 +1,12 @@
+fastapi 
+uvicorn[standard]
+python-multipart
+pydantic 
+pandas 
+tensorflow
+numpy
+gunicorn
+pillow #from PIL import Image
+streamlit
+streamlit_option_menu
+opencv-python
